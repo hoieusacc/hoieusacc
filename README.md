@@ -190,8 +190,8 @@
 <img src="./twitter.png" width=50 height=50 alt="HiuHong87177948" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/hoieu_sac/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="hoieu-sac" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/hoieusacc" target="_blank">
