@@ -85,7 +85,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/hoieusacc/Spaceship-Shooter">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=hoieusacc&repo=Spaceship-Shooter&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Spaceship-Shooter" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=hoieusacc&repo=Spaceship-Shooter&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" description="Hello" alt="Spaceship-Shooter" />
         </a>
       </p>
     </td>
